@@ -10,7 +10,7 @@ on:
 env:
   FIRMWARE_URL: "https://downloads.immortalwrt.org/releases/24.10.2/targets/x86/64/immortalwrt-24.10.2-x86-64-rootfs.tar.gz"
   REPOSITORY: novo8413/openwrt
-  TAG: 19.07.2
+  TAG: 24.10.2
 
 jobs:
   build:
